@@ -8,6 +8,7 @@ html {
   line-height: 1.714;
 }
 
+
 body {
 
 		    background-color: white;
@@ -137,14 +138,19 @@ main {	background-color: white;
 }
 
 h1{
-    font-size:1.5em;
+    font-size:1.7em;
 }
 h2  {text-align: center;
       padding-top: 20px;}
 
 h3 {text-align: center;
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin-top: 2em;}
+
+h4 {
+  font-size: 1.5em;
+  color:var(--main);
+}
 
 blockquote {max-width: 75%;
             font-style: italic;
@@ -155,7 +161,7 @@ footer {  font-size: 75%;
       		text-align: center;
       		font-family: Georgia, "Times New Roman", serif;
       		padding: 20px;
-          margin-top: 100px;
+          margin-top: 60px;
           background-color: var(--main);
           color: var(--light);
 }
@@ -179,7 +185,7 @@ footer a:hover {color: #FFCE00
         padding-top: 0.1em;
         padding-left: 1em;
         padding-right: 1em;
-        font-size: 90%;
+       
     }
     h1{
         font-size:1.5em;
@@ -191,4 +197,9 @@ footer a:hover {color: #FFCE00
   justify-content: space-between;
   width:100%;
   flex-direction: row;
+}
+
+.grid {
+  display:grid;
+
 }
