@@ -203,3 +203,13 @@ footer a:hover {color: #FFCE00
   display:grid;
 
 }
+
+#bannerimage{
+  background-image: url("/assets/images/nature.jpg");
+  height: 20%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
