@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Behavioral Health - Family Advocacy Clinic</title>
-    <link rel="stylesheet" href="/assets/css/fac.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-  </head>
-
-
-  <body>
-
-    
-
-
-<header>
-    <div class = "header-group container">
-      <img src = "/assets/images/vvlogo.png">
-      <div class = "header-text">
-        <h1>
-          Family Advocacy Clinic
-        </h1>
-      </div>
-      <span>
-      </span>
-    </div>
-  
-  </header>
-
-    <div class="navbar container">
-    <a href="/index.html">Home</a>
-    <a href="/whoweare.html">Who We Are</a>
-    <div class="dropdown">
-      <button class="dropbtn">Strategy
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="/strategy/empoweringfamilies.html">Empowering Families & Communities</a>
-        <a href="/strategy/threeRs.html">Strengthening the 3R's</a>
-        <a href = "/strategy/selfcarefirst.html">Self-Care First</a>
-      </div>
-    </div>
-    <div class = "dropdown">
-      <button class = "dropbtn">Areas of Advocacy
-        <i class = "fa fa-caret-down"></i>
-      </button>
-      <div class = "dropdown-content">
-      
-        <a href = "/areasofadvocacy/advocacy.html">Advocacy</a>
-        <a href = "/areasofadvocacy/specialeducation.html">Special Education Rights & Procedures</a>
-        <a href = "/areasofadvocacy/behavioralhealth.html">Behavioral Health (MH & DA)</a>
-        <a href = "/areasofadvocacy/truancy.html">Truancy</a>
-        <a href = "/areasofadvocacy/schooldiscipline.html">School Discipline</a>
-        <a href = "/areasofadvocacy/bullying"> Bullying</a>
-        <a href = "/areasofadvocacy/juvenilejustice.html">Juvenile Justice</a>
-      </div>
-    </div>
-    <a href = "/resources.html">Resources</a>
-    <a href = "/donations.html">Donations</a>
-    <a href = "/contactus.html">Contact Us</a>
-  </div>
-
-
-    <main>
-    <div style = "padding-left: 12%; padding-right: 12%;">
-<h1 style = "color:var(--main)">Behavioral Health (MH & DA)</h1>
-
-<div id = "banner"><img id = "image" src=""></div>
-    
-
-<p>Behavioral health refers to how our behavior and choices affect our overall health and wellness. About 20% of all youth have a mental health or substance use challenge in any given year. About 90% of addicts are diagnosable during the teen years. About half of all MH or D&amp;A challenges begin by age 14.</p>
+I"u<p>Behavioral health refers to how our behavior and choices affect our overall health and wellness. About 20% of all youth have a mental health or substance use challenge in any given year. About 90% of addicts are diagnosable during the teen years. About half of all MH or D&amp;A challenges begin by age 14.</p>
 
 <p>Mental health and substance use problems effect motivation, education, work and relationships. The challenges and consequences worsen over time. It is therefore very important to</p>
 
@@ -116,19 +43,4 @@ Others: Other challenges people might have include bipolar, eating disorders, ps
     </ul>
   </li>
 </ul>
-
-</div>
-
-</main>
-
-
-
-
-    <footer>
-    Copyright &copy; Family Advocacy Clinic<br>
-    <a href="mailto:mharper2@dccc.edu">mharper2@dccc.edu</a>
-</footer>
-  </body>
-
-
-</html>
+:ET
