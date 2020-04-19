@@ -4,72 +4,84 @@ title: Special Education Rights & Procedures
 header: Special Education Rights & Procedures
 ---
 
-Special Education Rights & Procedures
 Students with disabilities have a right to a "free and appropriate public education." NOT the best education possible, but appropriate.
 
 Below is a brief summary of your rights and procedures to help you understand how to navigate the system and advocate for your child. Special education rules are complex. For more information, contact us or visit the following websites to learn more:
 
-www.elc-pa.org
-www.wrightslaw.com
-www.pattan.net
-The Basics
+* <a href="www.elc-pa.org">PA Education Law Center</a>
+
+* <a href= "www.wrightslaw.com">Wright's Law</a>
+
+* <a href="www.pattan.net">Pennsylvania Training and Technical Assistance Network</a>
+
+---
+
+#### The Basics
 Special education is a program designed to meet the individual needs of a child with a disability. A special education program can adapt the content (what is taught), methodology (how it is taught) or delivery of the curriculum. Your knowledge and opinions about your child are important and must be considered by the school.
 
 A student is eligible for special education services at no cost to the parent if that child:
 
-has a disability
-needs specially designed educational instruction to access the general curriculum provided to students without disabilities, and
-attends a public school or charter schools. Special education services are not required at a private schools unless the child was placed there by public/charter school officials due to a learning disability.
-A child with a disability who does not qualify for special education services may still qualify for an accommodation plan under section 504 of the Rehabilitation Act of 1973. To learn more about 504 Plans please visit www.wrightslaw.com.
+* has a disability
+* needs specially designed educational instruction to access the general curriculum provided to students without disabilities, and
+* attends a public school or charter schools. Special education services are not required at a private schools unless the child was placed there by public/charter school officials due to a learning disability.
+
+A child with a disability who does not qualify for special education services may still qualify for an accommodation plan under section 504 of the Rehabilitation Act of 1973. To learn more about 504 Plans please visit <a href= "www.wrightslaw.com.">Wright's Law</a>.
 
 Students must receive services and supports in the Least Restrictive Environment, i.e. in regular classes with students who do not have disabilities as much as is appropriate. If a student cannot make progress in a regular education setting, they must be offered a continuum of placements rather than one restrictive option.
 
 To determine what help a child needs, schools conduct one or both of the following:
 
-A "Screening Process" to identify students with no disabilities who need extra help, and/or
-A "Evaluation Process" to determine if a child is eligible for special education services or a 504 Plan.
-The Screening Process:
+1. A "Screening Process" to identify students with no disabilities who need extra help, and/or
+2. A "Evaluation Process" to determine if a child is eligible for special education services or a 504 Plan.
+
+#### The Screening Process:
 Chrildren may not have a disability. They may just need some help with learning or behavior problems. Schools use a screening process to identify these students. Schools that initiate the screening process should tell the parent if the child is going to be screened. Parents can also ask the school for a screening. A screening is typically done by the school’s "Instructional Support Team" or by using "Early Intervening Services."
 
 If your child is struggling in school, you can ask the school to
 
-screen your child, and
-provide you with a list of all supports and services available under the school district’s "Student Services Plan" and its "ACT Plan."
+* screen your child, and
+* provide you with a list of all supports and services available under the school district’s "Student Services Plan" and its "ACT Plan."
+
 The school should provide you with a copy of both these plans, and explain how the services and supports listed might be helpful to your child. A school is not required to provide these services, but you should ask for what help is available.
 
-Evaluation For Special Education Eligibility:
+#### Evaluation For Special Education Eligibility:
 No child can receive special education services until the school completes an Evaluation. A parent concerned about whether their child may have a disability should ask the school principal for an Evaluation. The school then has 10 days to give you a consent form. You must sign the consent form before the evaluation will be completed. Schools may have you sign two forms before they begin the evaluation process: an evaluation request form AND THEN an evaluation consent form. Don’t get confused or delay in getting the evaluation process moving. SIGN THE EVALUATION CONSENT FORM!! The school’s Evaluation must be completed within 60 days (minus summer months) of the parent giving consent.
 
 The Evaluation process must:
 
-Be thorough and examine all areas related to your child's suspected disability, i.e. health, social skills, emotional status, intelligence, academic performance, communication needs, and motor skills.
+* Be thorough and examine all areas related to your child's suspected disability, i.e. health, social skills, emotional status, intelligence, academic performance, communication needs, and motor skills.
 Include input from the parent. Be sure to explain all the ways your child has strengths, weaknesses or may be struggling with things such as reading, time spent on homework, stress or anxiety, making friends, discouragement, lack of hobbies or outside interests, negative peer influences, etc.
+
 Schools must:
 
-Explain the Evaluation process and the results in a way you can understand.
-Provide you with a copy of your rights and procedural safeguards.
+* Explain the Evaluation process and the results in a way you can understand.
+* Provide you with a copy of your rights and procedural safeguards.
 Allow you to participate in determining the educational program for your child.
+
 If a school refuses to conduct an Evaluation:
 
-The school must explain the reasons for its refusal in a way that you can understand.
-If you disagree with the school’s decision then you can request reconsideration, mediation or a due process hearing.
-Independent Evaluation:
+* The school must explain the reasons for its refusal in a way that you can understand.
+* If you disagree with the school’s decision then you can request reconsideration, mediation or a due process hearing.
+
+#### Independent Evaluation:
 If a Parent disagrees with the school's evaluation process, the parent should write a letter to the school to:
 
-Request an independent evaluation (IE)
-Explain why the school's evaluation process was not appropriate;
-Ask for the school's requirements for credentials and criteria, and
-Ask for suggestions on where the IE can be obtained.
-A school must agree to IE or ask for a due process hearing. The school cannot just refuse the IE.
+* Request an independent evaluation (IE)
+* Explain why the school's evaluation process was not appropriate;
+* Ask for the school's requirements for credentials and criteria, and
+* Ask for suggestions on where the IE can be obtained.
+
+<ins>A school must agree to IE or ask for a due process hearing. The school cannot just refuse the IE.</ins>
 
 The IE should answer:
 
-whether the child has a disability
-whether the child needs special education services
-what services are appropriate
-whether any changes are needed to the IEP and why
-whether services can be provided in a regular classroom with supports
-Re-Evaluations:
+* whether the child has a disability
+* whether the child needs special education services
+* what services are appropriate
+* whether any changes are needed to the IEP and why
+* whether services can be provided in a regular classroom with supports
+
+#### Re-Evaluations:
 A child who is receiving special education services must be re-evaluated at least
 
 every 2 years for pre-schoolers, and
