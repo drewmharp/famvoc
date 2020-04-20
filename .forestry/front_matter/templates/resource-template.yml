@@ -8,3 +8,8 @@ fields:
 - type: text
   name: tag
   label: tag
+- name: category
+  type: tag_list
+  default: []
+  label: Category
+  description: Category under which new resource will be placed.
