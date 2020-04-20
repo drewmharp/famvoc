@@ -11,7 +11,6 @@ fields:
   config:
     required: false
     options:
-    - Juvenile Justice
     - Advocacy
     - Mental Health
     - Resilience Health and Wellness
