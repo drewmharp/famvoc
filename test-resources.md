@@ -8,7 +8,7 @@ header: Resources
 
 {% for r in site.resources %}
 
-    {% if r.tag == "advocacy" %}
+    {% if r.tag == "Advocacy" %}
      {{ r }}
     
     {% endif %}
