@@ -1,6 +1,6 @@
 ---
 title: The Pennsylvania Youth Survey
-tag: Juvenile Justice
+tag: ''
 link: https://www.pccd.pa.gov/Juvenile-Justice/Pages/Pennsylvania-Youth-Survey-(PAYS).aspx
 pdf: ''
 link_or_pdf: false
