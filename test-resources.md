@@ -19,7 +19,7 @@ header: Resources
 
 {% for r in site.resources %}
 
-    {% if r.tag == "Juvenile Justice" %}
+    {% if r.tag == "Juvenile-Justice" %}
      {{ r }}
     
     {% endif %}
