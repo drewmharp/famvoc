@@ -8,11 +8,11 @@ Students with disabilities have a right to a "free and appropriate public educat
 
 Below is a brief summary of your rights and procedures to help you understand how to navigate the system and advocate for your child. Special education rules are complex. For more information, contact us or visit the following websites to learn more:
 
-* <a href="www.elc-pa.org">PA Education Law Center</a>
+* <a href="https://www.elc-pa.org">PA Education Law Center</a>
 
-* <a href= "www.wrightslaw.com">Wright's Law</a>
+* <a href= "https://www.wrightslaw.com">Wright's Law</a>
 
-* <a href="www.pattan.net">Pennsylvania Training and Technical Assistance Network</a>
+* <a href="https://www.pattan.net">Pennsylvania Training and Technical Assistance Network</a>
 
 ---
 
