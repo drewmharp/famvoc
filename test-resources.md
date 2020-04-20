@@ -9,7 +9,7 @@ header: Resources
 
 {% for r in site.resources %}
 
-    {% if r.tag == "advocacy" %}
+    {% if r.tag == "Advocacy" %}
      {{ r }}
 
     {% endif %}
@@ -17,11 +17,41 @@ header: Resources
 
 #### Juvenile Justice
 
+{% for r in site.resources %}
+
+    {% if r.tag == "Juvenile-Justice" %}
+     {{ r }}
+
+    {% endif %}
+{% endfor %}
 #### Truancy
 
+{% for r in site.resources %}
+
+    {% if r.tag == "Truancy" %}
+     {{ r }}
+
+    {% endif %}
+{% endfor %}
+
 #### Resilience, Health & Wellness
+{% for r in site.resources %}
+
+    {% if r.tag == "Resilience-Health-&-Wellness" %}
+     {{ r }}
+
+    {% endif %}
+{% endfor %}
 
 #### Mental Health
+
+{% for r in site.resources %}
+
+    {% if r.tag == "Mental-Health" %}
+     {{ r }}
+
+    {% endif %}
+{% endfor %}
 
 
 
