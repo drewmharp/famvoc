@@ -12,11 +12,11 @@ fields:
     required: false
     options:
     - Advocacy
-    - Mental Health
-    - Resilience Health and Wellness
+    - Mental-Health
+    - Resilience-Health-&-Wellness
     - Truancy
-    - Criminal Justice
-    - Compeer & Compeer Corps
+    - Criminal-Justice
+    - Compeer-&-Compeer-Corps
     source:
       type: simple
       section: 
