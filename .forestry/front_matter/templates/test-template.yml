@@ -11,3 +11,9 @@ fields:
 - type: text
   name: header
   label: header
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Header Image
+  description: Image that will appear at the top of the page below navbar.
