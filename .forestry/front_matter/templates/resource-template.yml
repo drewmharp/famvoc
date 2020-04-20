@@ -1,0 +1,49 @@
+---
+label: Resource Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: tag
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Juvenile Justice
+    - Advocacy
+    - Mental Health
+    - Resilience Health and Wellness
+    - Truancy
+    - Criminal Justice
+    - Compeer & Compeer Corps
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Tag
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Link for resource, if used.
+  showOnly:
+    field: link_or_pdf
+- name: pdf
+  type: file
+  config:
+    maxSize: 250
+  label: PDF
+  description: Pdf file for resource, if used.
+  showOnly:
+    field: link_or_pdf
+    value: true
+- name: link_or_pdf
+  type: boolean
+  label: Use PDF Instead
+  description: Check if using PDF file instead of link to webpage.
+pages:
+- _resources/the-pennsylvania-youth-survey.md
