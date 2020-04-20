@@ -32,10 +32,6 @@ fields:
   description: Link for resource, if used.
   showOnly:
     field: link_or_pdf
-- name: link_or_pdf
-  type: boolean
-  label: Use PDF Instead
-  description: Check if using PDF file instead of link to webpage.
 - name: pdf
   type: file
   config:
@@ -45,3 +41,7 @@ fields:
   showOnly:
     field: link_or_pdf
     value: true
+- name: link_or_pdf
+  type: boolean
+  label: Use PDF Instead
+  description: Check if using PDF file instead of link to webpage.
