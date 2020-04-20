@@ -2,17 +2,17 @@
 layout: textpage
 title: Resources
 header: Resources
+
 ---
-
-
 #### Advocacy
 
 {% for r in site.resources %}
 
     {% if r.tag == "Advocacy" %}
      {{ r }}
-
+    
     {% endif %}
+
 {% endfor %}
 
 #### Juvenile Justice
@@ -43,16 +43,4 @@ header: Resources
     {% endif %}
 {% endfor %}
 
-#### Mental Health
-
-{% for r in site.resources %}
-
-    {% if r.tag == "Mental-Health" %}
-     {{ r }}
-
-    {% endif %}
-{% endfor %}
-
-
-
-
+ 
