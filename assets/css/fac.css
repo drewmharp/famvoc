@@ -26,6 +26,10 @@ header {  background-color: var(--light);
 
 }
 
+.header-text{
+  padding-left: 1.5em;
+}
+
 .header-group {
   height:120px;
   padding-left: 40px;
@@ -42,7 +46,6 @@ header img {
 }
 
 /*start navbar css */
-
 .navbar {
   overflow: hidden;
   background-color: var(--main);
@@ -51,13 +54,17 @@ header img {
 
 .navbar a {
   float: left;
-  font-size: 18px;
+  font-size: 16px;
   color: var(--light);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  margin-left: 2%;
-  margin-right: 2%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.navbar .icon {
+  display:none;
 }
 
 .navbar .dropdown a{
@@ -76,7 +83,7 @@ header img {
 }
 
 .dropdown .dropbtn {
-  font-size: 18px;
+  font-size: 16px;
   border: none;
   outline: none;
   color: white;
@@ -118,9 +125,47 @@ header img {
   color: var(--main);
 }
 
+.navbar.responsive .dropdown-content{
+  border-radius: 3px;
+  border-color: aliceblue;
+
+}
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+@media screen and (max-width: 1075px) {
+  .navbar a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .navbar a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 1075px) {
+  .navbar.responsive {position: relative;}
+  .navbar.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .navbar.responsive .dropdown {float: none;}
+  .navbar.responsive .dropdown-content {position: relative;}
+  .navbar.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
 
 /*end navbar css */
 

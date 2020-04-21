@@ -21,7 +21,7 @@
       <img src = "/assets/images/vvlogo.png">
       <div class = "header-text">
         <h1>
-          Family Advocacy Clinic
+          Family Advocacy Center
         </h1>
       </div>
       <span>
@@ -30,7 +30,7 @@
   
   </header>
 
-    <div class="navbar container">
+    <div class="navbar container" id="myNav">
     <a href="/index.html">Home</a>
     <a href="/whoweare.html">Who We Are</a>
     <div class="dropdown">
@@ -61,6 +61,20 @@
     <a href = "/resources.html">Resources</a>
     <a href = "/donations.html">Donations</a>
     <a href = "/contactus.html">Contact Us</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+
+    <script>
+    function myFunction() {
+      var x = document.getElementById("myNav");
+      if (x.className === "navbar") {
+        x.className += " responsive";
+      } else {
+        x.className = "navbar";
+      }
+    }
+    </script>
+    
+
   </div>
 
 
