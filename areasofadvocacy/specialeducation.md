@@ -84,114 +84,123 @@ The IE should answer:
 #### Re-Evaluations:
 A child who is receiving special education services must be re-evaluated at least
 
-every 2 years for pre-schoolers, and
-every 3 years for school-aged children.
+* every 2 years for pre-schoolers, and
+* every 3 years for school-aged children.
 Parents can waive their right to a re-evaluation. Parents or teachers can ask for a re-evaluation earlier, but the school does not have to do more than one re-evaluation every year. Parents can also ask for a re-evaluation for a child who is not receiving special education services once every year.
 
-Section 504 "Accommodations Plan":
-A child with a disability who does not qualify for special education services may still qualify for an accommodation plan under section 504 of the Rehabilitation Act of 1973. Disability under this Act is broadly defined as any physical or mental impairment that substantially limits a major life activity. This includes migraines, asthma, ADHD, obesity, etc. Team decision based on medical report or letter from doctor. To learn more about 504 plans please visit www.wrightslaw.com.
+#### Section 504 "Accommodations Plan":
+A child with a disability who does not qualify for special education services may still qualify for an accommodation plan under section 504 of the Rehabilitation Act of 1973. Disability under this Act is broadly defined as any physical or mental impairment that substantially limits a major life activity. This includes migraines, asthma, ADHD, obesity, etc. Team decision based on medical report or letter from doctor. To learn more about 504 plans please visit <a href= "https://www.wrightslaw.com.">www.wrightslaw.com</a>
 
-IEP:
+#### IEP:
 The Individualized Education Plan (IEP) sets forth a student's individualized needs, goals and supports the child needs to be successful. The plan is written by the IEP Team and is a contract between you and the school. Parents are full members of the IEP team, and your input is vitally important.
 
 Some of the biggest "Parent Pitfalls" with the IEP process are:
 
-A parent’s lack of focus on the child's current level of functioning.
-A parent being intimidated by the school district's "superior knowledge".
-A parent failing to question the school’s refusal to provide services.
+* A parent’s lack of focus on the child's current level of functioning.
+* A parent being intimidated by the school district's "superior knowledge".
+* A parent failing to question the school’s refusal to provide services.
+
 The IEP Team is designed to be a collaborative, problem-solving group process. The IEP Team must meet at least once per year to review progress and concerns. Parents have the right to ask for more frequent meetings if there are concerns.
 
 Major issues to address at the IEP Meeting include:
 
-Is special assistive technology needed to help the child?
-For Positive Behavior Supports, are any of the child’s behaviors getting in the way of learning for your child or other children? If yes, you should ask for a functional behavior assessment (FBA). The FBA should be used by the IEP Team to write a Positive Behavior Support Plan (PSBP). This plan should become part of the child’s IEP explaining:
-The specific behavior goals;
-What sets off the child’s bad behaviors in school;
-what skills should be taught to the child so he can behave more appropriately;
-how will problem behaviors be handled;
-how wil positive behaviors be reinforced.
+* Is special assistive technology needed to help the child?
+* For Positive Behavior Supports, are any of the child’s behaviors getting in the way of learning for your child or other children? If yes, you should ask for a functional behavior assessment (FBA). The FBA should be used by the IEP Team to write a Positive Behavior Support Plan (PSBP). This plan should become part of the child’s IEP explaining:
+    * The specific behavior goals;
+    * What sets off the child’s bad behaviors in school;
+    * what skills should be taught to the child so he can behave more appropriately;
+    * how will problem behaviors be handled;
+    * how wil positive behaviors be reinforced.
+
 The IEP Team should not use techniques that punish the child or cause the child to have a negative association with the problem behavior. If problem behaviors continue, then the IEP Team should meet again. Restraints are only used as a last resort, when everything else fails. If the school decides to discipline the child, special protections apply. (see School Discipline).
-The key to controlling a child's behavior is controlling adult's behavior. Positive school culture and learning environment equals fewer behavior problems. There is a function or reason for the behavior, so get rid of the causes and introduce new functions. FBA (Functional Behavioral Assessment) and BIP (Behavior Intervention Plan) allows school to chart behavior over time, hypothesize, implement a plan, and tweak the plan along the way. Get the characterization of the disruptive behavior into the IEP, and then the school needs to address it.
-For Current Educational Levels, the goal is to clearly understand where the child is currently with respect to academics (reading, math, etc.) and functioning performance (social skills, daily living skills). Parents should give their observations on how the child is doing at home, in school, with friends, etc. What are your child’s strengths and weaknesses?
-For Transition, the focus is a child’s goals for life after high school, and the services the school will provide now to help the child reach those goals.
-For Measurable Goals, the focus is what the child should learn this year. What are the child’s immediate needs? Do these goals help the child make progress in the general education curriculum? Children with disabilities should be taught what all other children at their grade level are taught unless there is a good, disability-based reason not to.
-For Program Modifications and Specially Designed Instruction, the focus is to explain exactly what the school personnel will do to help your child. The focus here should not be on what the child does.
-For Extended School Year (ESY), the focus is on whether the child might regress over the summer months or just needs extra time in the summer to learn skills. For children with severe disabilities the IEP Team must meet by Feb. 28th to review ESY, and it must decide by March 31. For all other children, these determinations "must be timely". Write the school in January to request this review if needed.
+* The key to controlling a child's behavior is controlling adult's behavior. Positive school culture and learning environment equals fewer behavior problems. There is a function or reason for the behavior, so get rid of the causes and introduce new functions. FBA (Functional Behavioral Assessment) and BIP (Behavior Intervention Plan) allows school to chart behavior over time, hypothesize, implement a plan, and tweak the plan along the way. Get the characterization of the disruptive behavior into the IEP, and then the school needs to address it.
+* For Current Educational Levels, the goal is to clearly understand where the child is currently with respect to academics (reading, math, etc.) and functioning performance (social skills, daily living skills). Parents should give their observations on how the child is doing at home, in school, with friends, etc. What are your child’s strengths and weaknesses?
+* For Transition, the focus is a child’s goals for life after high school, and the services the school will provide now to help the child reach those goals.
+* For Measurable Goals, the focus is what the child should learn this year. What are the child’s immediate needs? Do these goals help the child make progress in the general education curriculum? Children with disabilities should be taught what all other children at their grade level are taught unless there is a good, disability-based reason not to.
+* For Program Modifications and Specially Designed Instruction, the focus is to explain exactly what the school personnel will do to help your child. The focus here should not be on what the child does.
+* For Extended School Year (ESY), the focus is on whether the child might regress over the summer months or just needs extra time in the summer to learn skills. For children with severe disabilities the IEP Team must meet by Feb. 28th to review ESY, and it must decide by March 31. For all other children, these determinations "must be timely". Write the school in January to request this review if needed.
+
 A good IEP should clearly address:
 
-Why, when, where and for how long services will be provided.
-How much of the school day the child will spend with classmates who do not have disabilities. By law, this time must be maximized.
-Parent Approval of IEP:
+* Why, when, where and for how long services will be provided.
+* How much of the school day the child will spend with classmates who do not have disabilities. By law, this time must be maximized.
+
+#### Parent Approval of IEP:
 The school will give the parent
-the final IEP in writing, and
-a consent form asking the parent if they approve of the IEP. If this is the first IEP, no special education services can commence unless the parent signs the consent. For later IEPs, services are approved if the parent either signs the form or fails to return the form within 10 calendar days.
+1. the final IEP in writing, and
+2. a consent form asking the parent if they approve of the IEP. If this is the first IEP, no special education services can commence unless the parent signs the consent. For later IEPs, services are approved if the parent either signs the form or fails to return the form within 10 calendar days.
 If a parent does not approve of the IEP and they check "do not approve", then the parent can ask for a meeting, mediation or due process hearing. The school will then implement the prior IEP services until the disagreements are resolved.
 
 If a parent likes part of the new IEP but not others, the parent can ask the school to implement the parts that are agreed to, while any disagreements are resolved through a meeting, mediation or due process hearing.
 
-Use of Restraints:
+#### Use of Restraints:
 A school can use restraints to control a child’s serious or aggressive or self-injurious behavior only if
-the child is a clear and present danger to self or others, and
-less restrictive measures will not work. If a school uses restraints, it must hold an IEP Team Meeting within 10 school days, unless the parent agrees in writing to waive the meeting. At this meeting, the IEP Team should decide whether the child needs a:
-Functional behavior assessment
-Re-evaluation
-New positive behavior support plan
-Change in placement
+1. the child is a clear and present danger to self or others, and
+2. less restrictive measures will not work. If a school uses restraints, it must hold an IEP Team Meeting within 10 school days, unless the parent agrees in writing to waive the meeting. At this meeting, the IEP Team should decide whether the child needs a:
+* Functional behavior assessment
+* Re-evaluation
+* New positive behavior support plan
+* Change in placement
+
 The use of restraints may become part of the IEP, however:
 
-Restraints should be used along with teaching the child skills to stop the negative behavior.
-The IEP should include the plan to eliminate the need for restraints in the future
-Restraints cannot be used for the convenience of school staff or to punish the child
-School staff must be trained to use restraints
-Holding a child face down on the floor is never allowed at school
-Educational Placement:
+* Restraints should be used along with teaching the child skills to stop the negative behavior.
+* The IEP should include the plan to eliminate the need for restraints in the future
+* Restraints cannot be used for the convenience of school staff or to punish the child
+* School staff must be trained to use restraints
+* Holding a child face down on the floor is never allowed at school
+
+#### Educational Placement:
 The IEP Team, including the parents, decides what educational placement is appropriate. Placement is determined by the IEP Team after it develops the child’s educational program in the IEP. The IEP Team’s placement discussion should make clear the types of supports your child will receive; the length of time for these supports; and where they will be provided.
 
-After placement is decided, the school must give you a Notice of Recommended Placement/Prior Written Notice that explains the options considered and why a certain placement was recommended. If you refuse to approve placement, your child "stays put" in the current placement until the dispute is resolved through further discussions, mediation or a due process hearing.
+After placement is decided, the school must give you a <ins>Notice of Recommended Placement/Prior Written Notice</ins> that explains the options considered and why a certain placement was recommended. If you refuse to approve placement, your child "stays put" in the current placement until the dispute is resolved through further discussions, mediation or a due process hearing.
 
 Educational placement must:
 
-Be in the "least restrictive environment." This means that as much as is appropriate, the child must be educated in regular classes with children that do not have disabilities. This is also called "inclusion." Children have the right to be in the regular classroom if they can make reasonable educational progress in that setting when given extra supports, and their behaviors are not too disruptive.
-Be based on the child’s individualized needs as described in the IEP and evaluations.
+* Be in the "least restrictive environment." This means that as much as is appropriate, the child must be educated in regular classes with children that do not have disabilities. This is also called "inclusion." Children have the right to be in the regular classroom if they can make reasonable educational progress in that setting when given extra supports, and their behaviors are not too disruptive.
+* Be based on the child’s individualized needs as described in the IEP and evaluations.
+
 Schools are required to have a continuum of regular and special education placements including:
 
-regular classes with supports;
-part-time and full-time special education classes in the regular school;
-private schools; and
-instruction in the home, the Intermediate Unit or at the hospital if the child is medically fragile.
+1. regular classes with supports;
+2. part-time and full-time special education classes in the regular school;
+3. private schools; and
+4. instruction in the home, the Intermediate Unit or at the hospital if the child is medically fragile.
 If a child can make reasonable progress in a regular classroom with supplementary aids and services, then that should be the placement. Progress is measured by the IEP goals. A school may not refuse to place a child in a regular classroom because:
 
-The child cannot do the same work at the same level as the other children
-It is inconvenient or expensive for the school
-The child has a certain type or severity of disability
-There is no room in the regular classroom
-The curriculum must be modified
-The child would make more progress in a special education classroom
-Disputes & Procedural Safeguards:
+* The child cannot do the same work at the same level as the other children
+* It is inconvenient or expensive for the school
+* The child has a certain type or severity of disability
+* There is no room in the regular classroom
+* The curriculum must be modified
+* The child would make more progress in a special education classroom
+
+#### Disputes & Procedural Safeguards:
 The school is required to explain your rights in a way that you can understand. The school will give you a copy of the rules and procedures, but they are complicated so be sure to ask questions until everything is clearly understood. Below is a summary of the most important rules and strategies:
 
-Prior Written Notice from School:
+<ins>Prior Written Notice from School:</ins>
 The school must send you written "notice of recommended education placement/prior written notice" (PWN) whenever the school is suggesting or refusing to take action regarding child’s placement or program. This notice explains the action, reasons and other options. It then asks the parent to agree or disagree and return the form with their answer within 10 calendar days. If you do not understand anything on this form, ask the school to explain it to you.
 
-Communicate With the School:
+<ins>Communicate With the School:</ins>
 Talk with the child’s teacher or school counselor and ask for their suggestions on ways the school or family can help. Write a detailed "demand letter" to the principal explaining the history, concerns, goals and any requests such as an evaluation, assessments, I EP meeting or ways the family can help the child.
 
-Demand Letter:
+<ins>Demand Letter:</ins>
 If a problem is not fixed, the parent can send a demand letter to the Special Ed director for the school, with copies to principle. This letter can set forth the child’s history, needs, the parent’s observations and concerns, and a specific request for action or remedies. Most of this letter’s information can be gathered from the child’s school record. “FERPA” is the law giving parents a right to obtain school records. Before writing your letter, get organized and be sure to have records from:
 
-your FERPA request;
-your communications log with school (emails, notes, phone calls);
-evaluations;
-the last IEP and proposed IEP; and
-information/letters from any providers giving services to your child.
-Ask for IEP Facilitation:
+1. your FERPA request;
+2. your communications log with school (emails, notes, phone calls);
+3. evaluations;
+4. the last IEP and proposed IEP; and
+5. information/letters from any providers giving services to your child.
+
+<ins>Ask for IEP Facilitation:</ins>
 IEP Facilitators work for the PA Office of Dispute Resolution. Sometimes they can help the school and family reach an agreement. To learn more, call their office at 1-800-222-3353.
 
-File a Complaint:
+<ins>File a Complaint:</ins>
 Parents can file a complaint with the PA Bureau of Special Education if they believe the school is not following the IEP, not following the legal time limits for taking action, or discriminating because of a child’s disability. A complaint can be filed only for a problem that occurred during the previous 12 months. Also, this process is NOT used to determine if an IEP is appropriate (see mediation or due process hearing for such issues). Call the Bureau’s hotline to ask questions or learn more: 800-879-2301.
 
-Mediation:
+<ins>Mediation:</ins>
 The school and parent can agree to go to voluntary mediation through the Office of Dispute Resolution (ODR) to try and resolve any differences. You can start mediation by checking the box on the PWN and/or contacting ODR at 800-222-3353. Mediations are confidential, and neither side can bring a lawyer. Common issues include eligibility, the appropriateness of a child’s special education program or placement, or who should pay for an independent evaluation.
 
-Due Process Hearing:
+<ins>Due Process Hearing:</ins>
 The school or parent can request a due process hearing to resolve disputes. A hearing request or "complaint letter" can only be filed for problems that arose within the past 2 years. To request a hearing, check the box on the PWN and send your complaint letter to the ODR. Call the ODR or visit the ODR website to learn more. After you submit the hearing request, the school must schedule a "resolution session" within 15 days, unless both the school and parent agree to waive it or have already undergone mediation. The parties can bring lawyers to the resolution session. If the parties reach an agreement at this session, the school and parent still have 3 days to cancel the agreement and proceed to a hearing. THE HEARING WILL NOT START IF THE PARENT’S SKIP THE RESOLUTION SESSION DON’T COOPERATE IN SCHEDULING IT. IF THIS HAPPENS, THE COMPLAINT COULD BE DISMISSED AND THE PROCESS MUST START OVER FROM THE BEGINNING. At the hearing, each side can present witnesses and other evidence. A Hearing Officer renders the decision within 45 days. The decision can be appealed to state or federal court within 90 days of receiving the decision.
