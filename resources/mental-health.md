@@ -10,23 +10,16 @@ Only a professional can diagnose a person with a mental illness because each con
 
 A good first step is to <a href ="https://www.youtube.com/watch?v=paVhRQtyixw&feature=youtu.be">TALK TO SOMEONE.</a>   Remember, <a href= "https://www.youWe/">We All Have Mental Health.</a>  Call your County’s “warm line” for LIVE support and resource information:
  
-: <table>
-<tr>
-<td>Chester County 866-846-2722</td>
-<td></td>
-<td>Delaware County 855-464-9342</td>
-</tr>
-<tr>
-<td>Montgomery County 855-715-8255</td>
-<td></td>
-<td>Philadelphia 855-507-9276</td>
-</tr>
-<tr>
-<td>NAMI HELPLINE 800-950-6246</td>
-<td></td>
-<td></td>
-</tr>
-</table>
+
+Chester County 866-846-2722
+
+Delaware County 855-464-9342
+
+Montgomery County 855-715-8255
+
+Philadelphia 855-507-9276
+
+NAMI HELPLINE 800-950-6246
 
 If you or someone you know is in crisis and needs immediate help, call the national lifeline 24/7 to speak with a trained professional:  1-800-273-8255
 
@@ -34,7 +27,7 @@ Other resources:
 
 * <a href= "https://www.nami.org/Home">The National Alliance of Mental Illness</a> is the nation’s largest grassroots mental health organization, dedicated to supporting families through education and advocacy.  Local NAMI affiliates serve our communities offering support groups, resource guides and great programs such as “Family to Family”.
 * <a href="https://namimainlinepa.org/">NAMI Main Line PA</a> serves Lower Montgomery County, Delaware County 	and West Philadelphia.
-* <a href="http://namipadelco.org/NAMI">Delaware County PA</a>
+* <a href="http://namipadelco.org/NAMI">NAMI Delaware County PA</a>
 * <a href = "https://www.namichestercounty.org/">NAMI Chester County PA</a>
 * <a href="https://www.nimh.nih.gov/index.shtml">The National Institute of Mental Health</a> is the leading federal agency for research and information on mental disorders. NIMH has the latest science on the different types of mental illnesses including overview; signs and symptoms; risk factors; and treatment.
 

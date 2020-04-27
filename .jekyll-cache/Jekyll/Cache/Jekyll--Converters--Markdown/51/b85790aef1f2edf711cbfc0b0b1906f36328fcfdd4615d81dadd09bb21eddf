@@ -1,106 +1,31 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Mental Health Resources - Family Advocacy Clinic</title>
-    <link rel="stylesheet" href="/assets/css/fac.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-  </head>
-
-
-  <body>
-
-    
-
-
-<header>
-    <div class = "header-group container">
-      <img src = "/assets/images/vvlogo.png">
-      <div class = "header-text">
-        <h1>
-          Family Advocacy Center
-        </h1>
-      </div>
-      <span>
-      </span>
-    </div>
-  
-  </header>
-
-    <div class="navbar container" id="myNav">
-    <a href="/index.html">Home</a>
-    <a href="/whoweare.html">Who We Are</a>
-    <div class="dropdown">
-      <button class="dropbtn">Strategy
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="/strategy/empoweringfamilies.html">Empowering Families & Communities</a>
-        <a href="/strategy/threeRs.html">Strengthening the 3R's</a>
-        <a href = "/strategy/selfcarefirst.html">Self-Care First</a>
-      </div>
-    </div>
-    <div class = "dropdown">
-      <button class = "dropbtn">Areas of Advocacy
-        <i class = "fa fa-caret-down"></i>
-      </button>
-      <div class = "dropdown-content">
-      
-        <a href = "/areasofadvocacy/advocacy.html">Advocacy</a>
-        <a href = "/areasofadvocacy/specialeducation.html">Special Education Rights & Procedures</a>
-        <a href = "/areasofadvocacy/behavioralhealth.html">Behavioral Health (MH & DA)</a>
-        <a href = "/areasofadvocacy/truancy.html">Truancy</a>
-        <a href = "/areasofadvocacy/schooldiscipline.html">School Discipline</a>
-        <a href = "/areasofadvocacy/bullying"> Bullying</a>
-        <a href = "/areasofadvocacy/juvenilejustice.html">Juvenile Justice</a>
-      </div>
-    </div>
-    <a href = "/resources.html">Resources</a>
-    <a href = "/donations.html">Donations</a>
-    <a href = "/contactus.html">Contact Us</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-
-    <script>
-    function myFunction() {
-      var x = document.getElementById("myNav");
-      if (x.className === "navbar") {
-        x.className += " responsive";
-      } else {
-        x.className = "navbar";
-      }
-    }
-    </script>
-    
-
-  </div>
-
-
-    <main>
-    <div style = "padding-left: 12%; padding-right: 12%;">
-<h1 style = "color:var(--main)">Mental Health Resources</h1>
-
-<div id = "banner"><img id = "image" src=""></div>
-    
-
-<p>About 1 in 4 of adults develops a diagnosable mental disorder in a given year. Approximately 1 in 5 teens has at least one mental health disorder.   Individuals with mental illness often develop a substance use disorder.</p>
+I"� <p>About 1 in 4 of adults develops a diagnosable mental disorder in a given year. Approximately 1 in 5 teens has at least one mental health disorder.   Individuals with mental illness often develop a substance use disorder.</p>
 
 <p>Only a professional can diagnose a person with a mental illness because each condition is unique, but there are <a href="https://nami.org/NAMI/media/NAMI-Media/Infographics/NAMI-Warning-Signs-FINAL.pdf">Common Warning Signs and Symptoms to look for.</a></p>
 
-<p>A good first step is to <a href="https://www.youtube.com/watch?v=paVhRQtyixw&amp;feature=youtu.be">TALK TO SOMEONE.</a>   Remember, <a href="https://www.youWe/">We All Have Mental Health.</a>  Call your County’s “warm line” for LIVE support and resource information:
- </p>
-
-<p>Chester County 866-846-2722</p>
-
-<p>Delaware County 855-464-9342</p>
-
-<p>Montgomery County 855-715-8255</p>
-
-<p>Philadelphia 855-507-9276</p>
-
-<p>NAMI HELPLINE 800-950-6246</p>
+<dl>
+  <dt>A good first step is to <a href="https://www.youtube.com/watch?v=paVhRQtyixw&amp;feature=youtu.be">TALK TO SOMEONE.</a>   Remember, <a href="https://www.youWe/">We All Have Mental Health.</a>  Call your County’s “warm line” for LIVE support and resource information:</dt>
+  <dt> </dt>
+  <dd>
+    <table>
+</table>
+  </dd>
+</dl>
+<tr>
+<td>Chester County 866-846-2722</td>
+<td></td>
+<td>Delaware County 855-464-9342</td>
+</tr>
+<tr>
+<td>Montgomery County 855-715-8255</td>
+<td></td>
+<td>Philadelphia 855-507-9276</td>
+</tr>
+<tr>
+<td>NAMI HELPLINE 800-950-6246</td>
+<td></td>
+<td></td>
+</tr>
+<p>&lt;/table&gt;</p>
 
 <p>If you or someone you know is in crisis and needs immediate help, call the national lifeline 24/7 to speak with a trained professional:  1-800-273-8255</p>
 
@@ -109,7 +34,7 @@
 <ul>
   <li><a href="https://www.nami.org/Home">The National Alliance of Mental Illness</a> is the nation’s largest grassroots mental health organization, dedicated to supporting families through education and advocacy.  Local NAMI affiliates serve our communities offering support groups, resource guides and great programs such as “Family to Family”.</li>
   <li><a href="https://namimainlinepa.org/">NAMI Main Line PA</a> serves Lower Montgomery County, Delaware County 	and West Philadelphia.</li>
-  <li><a href="http://namipadelco.org/NAMI">NAMI Delaware County PA</a></li>
+  <li><a href="http://namipadelco.org/NAMI">Delaware County PA</a></li>
   <li><a href="https://www.namichestercounty.org/">NAMI Chester County PA</a></li>
   <li><a href="https://www.nimh.nih.gov/index.shtml">The National Institute of Mental Health</a> is the leading federal agency for research and information on mental disorders. NIMH has the latest science on the different types of mental illnesses including overview; signs and symptoms; risk factors; and treatment.</li>
 </ul>
@@ -182,19 +107,4 @@
 <p><a href="https://www.youtube.com/watch?v=b_n9qegR7C4">Ted-Ed:  The Psychology of PTSD</a></p>
 
 <p><a href="https://www.youtube.com/watch?v=hzSx4rMyVjI">Video on causes, symptoms and treatment of PTSD. </a></p>
-
-</div>
-
-</main>
-
-
-
-
-    <footer>
-    Copyright &copy; Family Advocacy Clinic<br>
-    <a href="mailto:mharper2@dccc.edu">mharper2@dccc.edu</a>
-</footer>
-  </body>
-
-
-</html>
+:ET
