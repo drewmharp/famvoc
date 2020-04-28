@@ -9,7 +9,7 @@ Preventing and stopping bullying requires a commitment from parents, teachers, s
 
 Some studies show that one out of three children are bullied.  So Parents, talk to your child everyday, and occasionally ask them if they or someone they know is having problems at school.  If there is bullying, tell your child that adults are here to help.  Call your child’s teacher and principal, schedule a meeting, talk about the Bullying, and develop a strategy to stop it.
 
-To Learn more, read the PDF for detailed information on how to Advocate for Your Child About Bullying.
+To Learn more, read the PDF for detailed information on how to <a href= "assets/media/Advocacy Tips For Bullying.pdf">Advocate for Your Child About Bullying.</a>
 
 For other Resources, watch:
 
