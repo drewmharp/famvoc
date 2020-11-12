@@ -22,3 +22,5 @@ fields:
     maxSize: 250
   label: Header Image
   description: Image that will appear at the top of the page below navbar.
+pages:
+- resources/autism-and-aspergers.md
