@@ -5,4 +5,4 @@ header: Autism and Aspergers
 image: ''
 
 ---
-[https://www.kristoffersadvocacycorner.com/](https://www.kristoffersadvocacycorner.com/ "Kristoffers Advocacy Corner")
+<a href ="[https://www.kristoffersadvocacycorner.com](https://www.kristoffersadvocacycorner.com/ "Kristoffers Advocacy Corner")">Kristoffers Advocacy Corner</a>
