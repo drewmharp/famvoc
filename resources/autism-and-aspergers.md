@@ -1,7 +1,7 @@
 ---
 layout: textpage
-title: Autism and Aspergers
-header: Autism and Aspergers
+title: Autism & Aspergers
+header: Autism & Aspergers
 image: ''
 
 ---
