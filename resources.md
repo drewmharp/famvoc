@@ -6,7 +6,7 @@ header: Resources
 ---
 #### <a href= "/resources/advocacy.html">Advocacy</a>
 
-#### <a href = "/resources/autism-&-asbergers.html">Autism & Asbergers</a>
+#### <a href = "/resources/autism-&-aspergers.html">Autism & Aspergers</a>
 
 #### <a href="/resources/bullying.html">Bullying</a>
 
