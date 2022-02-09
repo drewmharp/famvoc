@@ -12,7 +12,7 @@ We provide answers and information that help you understand and navigate child s
 
 #### Intake Interview Session:
 
-Schedule a time with Clinic staff for a confidential, in-depth interview and information session. Intakes are by phone or in-person, whichever way you prefer. Partner with us to better understand the challenge and how to advocate effectively.
+Schedule a time with staff for a confidential, in-depth interview and information session. Intakes are by phone or in-person, whichever way you prefer. Partner with us to better understand the challenge and how to advocate effectively.
 
 #### Call or Email Us:
 
